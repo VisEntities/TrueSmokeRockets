@@ -1,2 +1,1 @@
-# TrueSmokeRockets
-No permissions, commands, or configuration required. Just install it, and it'll automatically take effect whenever a smoke rocket explodes.
+This plugin fixes the unfinished state of smoke rockets in the game by making them emit visibility-blocking smoke upon impact.
