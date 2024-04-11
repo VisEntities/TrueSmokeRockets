@@ -4,7 +4,7 @@ using UnityEngine;
 namespace Oxide.Plugins
 {
     [Info("True Smoke Rockets", "VisEntities", "1.1.0")]
-    [Description("Adds a smoke effect to smoke rockets, making them functional as they should be.")]
+    [Description("Functional smoke rockets that produce a smoke cloud upon explosion.")]
     public class TrueSmokeRockets : RustPlugin
     {
         #region Fields
